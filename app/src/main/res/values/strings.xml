@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlin Sample</string>
+    <string name="enter_feedback">Enter Feedback</string>
+    <string name="submit">Submit</string>
+    <string name="users">Users</string>
+    <string name="users_list">Users List</string>
+    <string name="user_detail">User Detail</string>
+</resources>
